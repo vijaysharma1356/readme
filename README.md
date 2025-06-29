@@ -49,4 +49,66 @@ Currently, I’m working at **Mahindra & Mahindra SBU** and pursuing my **BCA (B
 - **Tableau** / **Power BI** (Data visualization and dashboarding)
 - **Google Data Studio** (Reporting and visualization)
 
-### Data Processing & Manipu
+### Data Processing & Manipulation:
+- **Data Wrangling**: Handling missing values, outliers, and data transformations
+- **ETL Pipelines**: Building data pipelines for efficient data processing
+
+### Statistical & Machine Learning:
+- **Statistics**: Descriptive statistics, hypothesis testing, regression analysis
+- **Supervised Learning**: Linear Regression, Logistic Regression, Decision Trees
+- **Unsupervised Learning**: K-Means Clustering
+
+---
+
+## 🔧 Projects
+
+Here are some projects I've worked on that showcase my data analysis and problem-solving skills:
+
+1. **[Sales Data Analysis for Mahindra & Mahindra]**
+   - **Description**: Analyzed sales performance across different regions to uncover trends and improve business strategies.
+   - **Tools**: Python (Pandas, Matplotlib), SQL
+
+2. **[Customer Segmentation Using K-Means Clustering]**
+   - **Description**: Used clustering to segment customers based on purchase behaviors for targeted marketing.
+   - **Tools**: Python (Scikit-learn), Tableau
+
+3. **[Employee Performance Dashboard]**
+   - **Description**: Created an interactive dashboard to monitor employee performance across key metrics.
+   - **Tools**: Excel (Pivot Tables, Charts), Power BI
+
+4. **[Sales Forecasting Using Linear Regression]**
+   - **Description**: Built a regression model to predict future sales based on historical data.
+   - **Tools**: Python (Scikit-learn, Pandas)
+
+5. **[E-commerce Product Recommendation System]**
+   - **Description**: Developed a recommendation system based on collaborative filtering for personalized product recommendations.
+   - **Tools**: Python (Pandas, Scikit-learn)
+
+---
+
+## 🌱 I’m Currently Learning...
+
+- **Advanced Machine Learning**: Working on deep learning models and reinforcement learning techniques.
+- **Big Data**: Exploring tools like **Apache Spark** and **Hadoop** to analyze large-scale datasets.
+- **Cloud Computing**: Gaining expertise in **AWS** and **Google Cloud** for data storage and analysis.
+
+---
+
+## 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/vijay-sharma)  
+- [Twitter](https://twitter.com/yourhandle)  
+- Email: vijay.sharma@example.com
+
+---
+
+## 🏆 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaysharma&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data analytics!
+
+---
+
